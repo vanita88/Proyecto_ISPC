@@ -6,8 +6,11 @@ Surge en *Febrero de 2001*,  en *Utah (EEUU)*.  Se reunen 17 críticos de los mo
 Éstos 17 colaboradores, se autodenominaron *"La Alianza Ágil"*, y dieron lugar al *Manifiesto para el Desarrollo del Software Ágil*.
 En cuatro premisas, logran esbozar lo que serán los pilares de las *Metodologias Denominadas Ágiles*:
 1. **Individuos e interacciones**, por sobre procesos y herramientas: no le quita el valor a los procesos, pero pone en objetivo que para que esos procesos  se ejecuten, se precisa de personas con talentos y habilidades para ponerlos en marcha;
+
 2.**Software de trabajo**,  por sobre documentación completa:no perder de vista el objetivo del proceso, y no hacer del proceso el objetivo en si, reduciendo la documentación a lo mínimo e indispensable;
+
 3.**Colaboración con  el cliente**, por sobre negociación del contrato: es mucho más fructífero estar en constante comunicación y colaboración con el cliente, que solo delimitar responsabilidades de las partes evitando la involucración de las mismas;
+
 4.**Responder al cambio**, por sobre seguir un plan: poner en foco la capacidad de adaptación y resolutiva en la gestión, que la planificación exahustiva.
 
 ## Los 12 Principios  del Manifiesto Ágil <sub>[^1]</sub>:
