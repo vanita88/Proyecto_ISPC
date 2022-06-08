@@ -1,5 +1,5 @@
 # Conceptos
-
+hola aca va segunda parte 
 ## **3.Agile Manifiesto. Principios**
 
 Surge en *Febrero de 2001*,  en *Utah (EEUU)*.  Se reunen 17 críticos de los modelos de producción basados en procesos. 
