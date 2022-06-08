@@ -157,3 +157,17 @@ Finalmente, el prototipo debe ser probado por los usuarios para poder recibir el
 Fuentes: https://www.iebschool.com/blog/que-es-el-xp-programming-agile-scrum/#:~:text=El%20Extreme%20Programming%20es%20una%20metodolog%C3%ADa%20de%20desarrollo,control.%20Ambos%20conceptos%2C%20aunque%20relacionados%20estrechamente%2C%20son%20distintos.
 https://www.hostingplus.cl/blog/modelo-de-prototipos-que-es-y-cuales-son-sus-etapas/
 https://diagramasuml.com/desarrollo-rapido-de-aplicaciones-rad-que-es-y-como-funciona/
+
+## 6. **Pilares**
+
+Los pilares establecen parametros para la experimentación y validación de los hechos concretos y registrados en los diferentes procesos a lo largo del Scrum. Por lo cual existen tres pilares fundamentales en lo que todo el equipo debe atravesar.
+
+- Transparencia
+Este pilar deja muy clara toda la información que se genere en el proyecto, para que todos los miembros tenga igual conocimiento de lo que ocurre en el proceso. Para ello deben compartir el mismo lenguaje con todos los participantes para referirse al proceso; aquellos que desempeñan el trabajo y quienes inspeccionan deben compartir una definición de "terminado"("Done").
+
+- Inspección
+Es importante realizar la inspección continua de los artefactos y del progreso del proyecto en el sprint, para así poder identificar fallas y hacer las correcciones necesarias.
+
+- Adaptación
+Es fundamental al momento de realizar ajustes al proyecto, ya que permite a que el equipo pueda acoplarse al nuevo lineamiento sin problema.
+
