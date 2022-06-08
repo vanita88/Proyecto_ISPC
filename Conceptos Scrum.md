@@ -83,3 +83,77 @@ En cuatro premisas, logran esbozar lo que serán los pilares de las *Metodologia
 12.En intervalos regulares, el equipo reflexiona sobre la forma de ser más efectivo y ajusta su conducta en consecuencia.
 
 [^1]Extraido de https://agilemanifesto.org/
+
+## **4. Procesos Ágiles:**
+
+## 1. **Programacion extrema**
+Extreme Programming o XP Programming es un marco de desarrollo de software ágil que tiene como objetivo producir un software de mayor calidad para mejorar la eficiencia del equipo de desarrollo. Se trata de una metodología de desarrollo cuyo objetivo es promover la aplicación de prácticas de ingeniería apropiadas para la creación de software. Esta metodología la formuló Kent Beck, autor del primer libro sobre este ámbito llamado «Extreme Programming Explained: Embrace Change», publicado en 1999.
+
+Para que nos hagamos una idea, Extreme Programming está diseñada para ofrecer el software que los usuarios necesitan en el momento adecuado. En este sentido, ayuda a los desarrolladores a ajustarse a los requerimientos cambiantes de los clientes.
+
+Este tipo de programación se diferencia de las metodologías tradicionales en que pone más énfasis en la adaptabilidad que en la previsibilidad. El Extreme Programming considera que los cambios de requisitos sobre la marcha son acciones naturales e inevitables en el desarrollo de un proyecto. Creen que ser capaces de adaptarse a los cambios que puedan surgir en cualquier punto del ciclo de vida de un proyecto es una mejor previsión y más realista que intentarlos definir todos en un principio y que no varíen más.
+
+- PLANIFICACIONES Y PRUEBAS
+Por una parte se deben planificar los plazos temporales del proyecto basándose en las exigencias del cliente. En base a las estimaciones de coste y la dificultad del proyecto se marcan las prioridades y las fechas, no siempre de forma precisa, pero sí orientativa.
+
+Con la entrega de la planificación efectuada, se desarrolla la de la iteración en el que cada dos semanas se marca el rumbo y se entrega el software útil después de cada uno de estos periodos bisemanales. Con esto se consigue que el nivel de precisión sea mucho mayor, las estimaciones sobre los costes sean más exactas y la información mucho más transparente.
+
+En cuanto a las pruebas, continuamente se han de efectuar una serie de pruebas automatizadas en base a los requisitos del cliente para comprobar que todo funcione correctamente. Éstas han de hacerse de forma periódica y automática.
+
+Con las planificaciones comentadas anteriormente se incluyen las entregas al final de cada iteración, estas serán siempre con el software probado y funcionando correctamente y será facilitado al cliente, que puede utilizarlo para cualquier propósito, incluso para el usuario final. Los equipos XP también pueden hacer entregas a otros usuarios finales.
+
+- Diseño y programación
+El diseño del programa suele ser simple y basado en la funcionalidad del sistema y se lleva a cabo durante todo el proyecto, tanto durante la planificación de la entrega como en el de la iteración.
+
+La programación del software se hace siempre en pareja, lo que se llama programar a dos manos. Se asegura con este método que al menos un programador conoce y controla la labor de otro y queda revisado. La ventaja es que se produce mejor código que en base a un programador aunque la dificultad de la misma sea mayor.
+
+- El código es de todos, con el desarrollo de las pruebas automáticas y la programación a dos manos se incluye también la posibilidad de que cualquiera pueda añadir y retocar parte del código, aunque eso sí, deba ser un estilo común y cuyo resultado sea como si sólo lo hubiera hecho una persona.
+
+- El Extreme Programming tiene como gran ventaja el de la programación organizada y planificada  para que no haya errores durante todo el proceso. Los programadores suelen estar satisfechos con esta metodología. Es muy recomendable efectuarlo en proyectos a corto plazo.
+
+## 2. **Desarrollo rápido de aplicaciones (RAD)**
+El desarrollo rápido de aplicaciones (RAD, de sus siglas en inglés Rapid Application Development) describe un método de desarrollo de software que hace mucho hincapié en la creación rápida de prototipos y la entrega iterativa. El modelo RAD es, por lo tanto, una alternativa nítida al modelo típico de desarrollo en cascada (que es el modelo más usado tradicionalmente), que suele enfocarse en hacer una planificación secuencial. Fue introducido por primera vez en 1991 en el libro de James Martin con el mismo nombre , el desarrollo rápido de aplicaciones se ha convertido en uno de los métodos de desarrollo más populares y potentes, que se incluye en la categoría de técnicas de desarrollo ágil. Este mismo autor señala que los 4 ingredientes principales de RAD son: Personas, herramientas, metodología y gestión.
+
+- Planificación de requerimientos: durante esta etapa inicial, los diseñadores, desarrolladores y usuarios llegan a un acuerdo aproximado sobre el alcance del proyecto y los requisitos de la aplicación, para que puedan comenzar las etapas futuras con creación de prototipos.
+
+- Diseño con el usuario: los comentarios de los usuarios se recopilan con gran énfasis en la determinación de la arquitectura del sistema. Esto permite crear modelos y prototipos iniciales. Este paso se repite tantas veces como sea necesario a medida que el proyecto evoluciona.
+
+- Construcción: una vez que ha comenzado el diseño básico del usuario y del sistema, la fase de construcción es donde se lleva a cabo la mayor parte de la codificación, las pruebas y la integración reales de la aplicación. Junto con el diseño del usuario, la fase de construcción rápida se repite tantas veces como sea necesario, a medida que se requieran nuevos componentes o se realicen modificaciones para satisfacer las necesidades del proyecto.
+
+- Transicción: la etapa final de Transicción (o Cutover) le permite al equipo de desarrollo tiempo para mover los componentes a un entorno de producción en vivo, donde se pueden llevar a cabo todas las pruebas necesarias o la capacitación del equipo.
+
+## 3. **Desarrollo de prototipo**
+Un modelo prototipo o modelo de desarrollo evolutivo es utilizado principalmente en el desarrollo de software para ofrecer al usuario una visión previa de cómo será el programa o sistema. Se le dice de desarrollo evolutivo al modelo de prototipo porque evoluciona hasta convertirse en el producto final.
+
+En un modelo de prototipos las características fundamentales son:
+
+Tiempo. El prototipo se desarrolla en menos tiempo para poder ser probado o testeado.
+Coste. La inversión en un modelo de prototipo es ajustada, lo que requiere un uso óptimo de los recursos.
+Conciso. El prototipo debe incluir los requisitos y características básicas de la aplicación para poder evaluar su funcionamiento y utilidad.
+Evolutivo. El prototipo evoluciona gracias a la interacción con los usuarios.
+Funcional. El prototipo es una aplicación que funciona.
+
+Etapas para la elaboración del modelo de prototipo
+Un modelo de construcción de prototipos comienza con la definición de un problema y sus efectos, para poder desarrollar el prototipo que lo resuelva. Las etapas para la elaboración del modelo de prototipo son:
+
+- Requisitos de desarrollo
+Se realiza un análisis para poder establecer cuáles son los requisitos del programa. Se trata de un diseño básico del prototipo donde se traza de forma inicial los requisitos necesarios para su desarrollo.
+
+- Modelaje y desarrollo del código
+En esta fase se construye el prototipo inicial según los requisitos establecidos. En esta fase de diseño y construcción se debe priorizar el tiempo de desarrollo y hacer un uso óptimo de los recursos para reducir su coste.
+
+- Evaluación
+Una vez desarrollado el prototipo es necesario comprobar su funcionamiento, evaluando su funcionalidad y verificando que cumple realmente con los requisitos iniciales.
+
+- Modificación
+Tras evaluar el prototipo se deben corregir los errores encontrados y aplicar las mejoras necesarias para que esté listo para ser probado por los usuarios.
+
+- Documentación
+Todo el diseño y desarrollo debe ser documentado para disponer de información precisa y clara del proceso. Es muy importante el registro de cada paso o acción del desarrollo del prototipo pues es una guía útil a la hora de afrontar el diseño del producto final.
+
+- Pruebas
+Finalmente, el prototipo debe ser probado por los usuarios para poder recibir el feedback necesario y así evaluar su utilidad y rendimiento. Gracias a esta retroalimentación ofrecida por el prototipo se podrá desarrollar un software de mayor calidad que resuelva los problemas de los usuarios.
+
+Fuentes: https://www.iebschool.com/blog/que-es-el-xp-programming-agile-scrum/#:~:text=El%20Extreme%20Programming%20es%20una%20metodolog%C3%ADa%20de%20desarrollo,control.%20Ambos%20conceptos%2C%20aunque%20relacionados%20estrechamente%2C%20son%20distintos.
+https://www.hostingplus.cl/blog/modelo-de-prototipos-que-es-y-cuales-son-sus-etapas/
+https://diagramasuml.com/desarrollo-rapido-de-aplicaciones-rad-que-es-y-como-funciona/
