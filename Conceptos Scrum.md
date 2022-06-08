@@ -1,5 +1,5 @@
 # Conceptos
-hola aca va segunda parte 
+
 ## **3.Agile Manifiesto. Principios**
 
 Surge en *Febrero de 2001*,  en *Utah (EEUU)*.  Se reunen 17 críticos de los modelos de producción basados en procesos. 
@@ -13,7 +13,7 @@ En cuatro premisas, logran esbozar lo que serán los pilares de las *Metodologia
 
 4.**Responder al cambio**, por sobre seguir un plan: poner en foco la capacidad de adaptación y resolutiva en la gestión, que la planificación exahustiva.
 
-## Los 12 Principios  del Manifiesto Ágil <sub>[^1]</sub>:
+## Los 12 Principios  del Manifiesto Ágil[^1]:
 1.Nuestra principal prioridad es satisfacer al cliente a través de la entrega temprana y continua de software de valor.
 
 2.Son bienvenidos los requisitos cambiantes, incluso si llegan tarde al desarrollo. Los procesos ágiles se doblegan al cambio como ventaja competitiva para el cliente.
