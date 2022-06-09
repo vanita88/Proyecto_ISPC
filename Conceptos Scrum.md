@@ -162,9 +162,9 @@ Fuentes: https://www.iebschool.com/blog/que-es-el-xp-programming-agile-scrum/#:~
 https://www.hostingplus.cl/blog/modelo-de-prototipos-que-es-y-cuales-son-sus-etapas/
 https://diagramasuml.com/desarrollo-rapido-de-aplicaciones-rad-que-es-y-como-funciona/
 
-## 6. **Scrum**
+## 5. **Scrum**
 
-# _Definición de Scrum_
+# Definición de Scrum
 
 Es un marco de trabajo a través del cual las personas pueden abordar
 problemas complejos adaptativos, a la vezque se entregan productos de forma
@@ -176,7 +176,7 @@ En Scrum se realizan entregas parciales y regulares del producto final, prioriza
 
 Scrum también se utiliza para resolver situaciones en que no se está entregando al cliente lo que necesita, cuando las entregas se alargan demasiado, los costes se disparan o la calidad no es aceptable, cuando se necesita capacidad de reacción ante la competencia, cuando la moral de los equipos es baja y la rotación alta, cuando es necesario identificar y solucionar ineficiencias sistemáticamente o cuando se quiere trabajar utilizando un proceso especializado en el desarrollo de producto.
 
-# _Caracteristicas del Scrum_
+# Caracteristicas del Scrum
 
 ● Es una enfoque ágil para la gestión de un proyecto. Más que una
 metodología o proceso, es un Marco de Trabajo.
@@ -186,7 +186,7 @@ metodología o proceso, es un Marco de Trabajo.
 ● Su visión es opuesta a la propuesta por la metodología en
 cascada.
 
-# _Los 5 valores del Scrum_
+# Los 5 valores del Scrum
 
 - Coraje. Tener la valentía para hacer lo correcto y resolver problemas complejos.
 - Foco. La organización del trabajo en sprints da certidumbre y permite centrar los esfuerzos en objetivos alcanzables.
