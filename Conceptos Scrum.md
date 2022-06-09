@@ -171,3 +171,13 @@ Es importante realizar la inspección continua de los artefactos y del progreso 
 - Adaptación
 Es fundamental al momento de realizar ajustes al proyecto, ya que permite a que el equipo pueda acoplarse al nuevo lineamiento sin problema.
 
+# 7.**Sprint: Concepto. Comunicación. Ciclo de vida**
+## *Sprint. Concepto.* 
+El Sprint es un período de corta duración que debe finalizar con un prototipo operativo o producto parcialmente entregable. El mismo se repite n veces a lo largo del proyecto y permite hacer entregas de producto en partes, donde cada entrega, es un incremento de funcionalidad respecto al anterior. Esto difiere del conocido ciclo de vida en cascada muy utilizado en el campo de desarrollo de software en que, las fases del ciclo de vida (requisitos, análisis, diseño, codificación, testing, etc.) se realizan una única vez y, el inicio de cada fase no comienza hasta que termina la que precede.
+
+## *Sprint. Comunicación.*
+> “La forma más eficiente y efectiva de comunicar información de ida y vuelta dentro de un equipo de desarrollo es mediante la comunicación cara a cara” Manifiesto Agile
+
+## *Sprint. Ciclo de vida.*
+
+![Sprint. Ciclo de vida](https://img2.freepng.es/20180719/he/kisspng-scrum-agile-software-development-software-developm-scrum-5b5063c72b3d94.7700564315319950791771.jpg)
