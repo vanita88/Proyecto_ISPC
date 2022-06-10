@@ -10,23 +10,22 @@ se necesitan para hacer que estos programas operen de manera correcta
 El software, en su gran mayoría, está escrito en lenguajes de programación de alto nivel, ya que son más fáciles y eficientes para que los programadores los usen, porque son más cercanos al lenguaje natural respecto del lenguaje de máquina.3​ Los lenguajes de alto nivel se traducen a lenguaje de máquina utilizando un compilador o un intérprete, o bien una combinación de ambos. El software también puede estar escrito en lenguaje ensamblador, que es de bajo nivel y tiene una alta correspondencia con las instrucciones de lenguaje máquina; se traduce al lenguaje de la máquina utilizando un ensamblador.
 
 La documentación se refiere a documentos que describen:
-● la organización del sistema,
-● documentos para el usuario que les explica cómo utilizar el sistema
-● sitios web que permitan a los usuarios descargar la información de
-actualizaciones del producto
+- la organización del sistema,
+- documentos para el usuario que les explica cómo utilizar el sistema
+- sitios web que permitan a los usuarios descargar la información de actualizaciones del producto.
 
 ## Software (IEEE): 
 Parte de un sistema que se puede codificar para ejecutarse en una
 computadora como un conjunto de instrucciones. Incluye la documentación asociada necesaria para comprender, transformar y usar esa solución.
 
 ## Características
-● Es intangible.
-● Tiene alto contenido Intelectual.
-● Su proceso de desarrollo es humano intensivo, basado en equipos y construidos en proyectos.
-● Puede ser potencialmente modificado, en forma permanente. (Robert Cochram)
-● El software no se manufactura, se desarrolla.
-● El software no se desgasta.
-● A pesar de la tendencia de la industria a desarrollar por componentes, gran parte del software aún se construye a medida. (Pressman)
+- Es intangible.
+- Tiene alto contenido Intelectual.
+- Su proceso de desarrollo es humano intensivo, basado en equipos y construidos en proyectos.
+- Puede ser potencialmente modificado, en forma permanente. (Robert Cochram)
+- El software no se manufactura, se desarrolla.
+- El software no se desgasta.
+- A pesar de la tendencia de la industria a desarrollar por componentes, gran parte del software aún se construye a medida. (Pressman)
 
 
 ## **2.Proceso de Desarrollo de Software** [^1]
