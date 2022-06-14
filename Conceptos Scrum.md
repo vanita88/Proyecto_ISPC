@@ -248,3 +248,17 @@ El Sprint es un período de corta duración que debe finalizar con un prototipo 
 ## _Sprint. Ciclo de vida._
 
 ![Sprint. Ciclo de vida](https://img2.freepng.es/20180719/he/kisspng-scrum-agile-software-development-software-developm-scrum-5b5063c72b3d94.7700564315319950791771.jpg)
+
+
+
+# 8. Planificación del Sprint (Sprint Planning)
+
+## Segmento 1:
+  - El Product Owner presenta el Backlog de Producto con más alta prioridad.
+  - El equipo selecciona los items del Backlog de Producto con los que se pueden comprometer.
+
+## Segmento 2:
+  - Decidir la estrategia para alcanzar el objetivo del sprint (diseño).
+  - Las tareas son creadas.
+  - Se estiman las tareas y el backlog de Sprint.
+  - de manera colaborativa, no solamente el Scrum Master.
