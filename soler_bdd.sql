@@ -9,13 +9,13 @@
  teniendo en cuenta sus claves foráneas y primarias.
  2.) Inserte en la tabla correspondiente un nuevo animal (perro) como paciente
  y el dueño asociado a ese animal.
- 3.)Borre un animal que ya no va a ser atendido. Para ello consulte antes en el historial, algún animal que ya no sea atendido desde hace mucho tiempo..
+ 7.) Obtener los ingresos percibidos en Julio del 2022
  */
 
 --Punto 1) Creación de la base de datos y sus respectivas tablas
-CREATE DATABASE peluqueria_canina3;
+CREATE DATABASE peluqueria_canina;
 
-USE peluqueria_canina3;
+USE peluqueria_canina;
 
 CREATE TABLE
     `dueno` (
@@ -29,7 +29,7 @@ CREATE TABLE
 
 CREATE TABLE
     `perro` (
-        `ID_Perro` INT NOT NULL,
+        `ID_Perro` INT NOT NULL AUTO_INCREMENT,
         `Nombre` VARCHAR(25) NOT NULL,
         `Fecha_nac` DATE NULL,
         `Sexo` VARCHAR(6) NULL,
@@ -41,7 +41,7 @@ CREATE TABLE
 
 CREATE TABLE
     `historial` (
-        `ID_Historial` INT NOT NULL,
+        `ID_Historial` INT NOT NULL AUTO_INCREMENT,
         `Fecha` DATE NOT NULL,
         `Perro` INT NOT NULL,
         `Descripcion` VARCHAR(200) NULL,
@@ -61,7 +61,7 @@ INSERT INTO
         `Direccion`
     )
 VALUES (
-        '40172056',
+        '40268953',
         'Juan',
         'Marquez',
         '34245605',
@@ -82,63 +82,71 @@ VALUES (
 
 INSERT INTO
     `perro` (
-        `ID_Perro`,
         `Nombre`,
         `Fecha_nac`,
         `Sexo`,
         `DNI_dueno`
     )
 VALUES (
-        '1',
         'Umma',
         '2016-10-13',
         'Hembra',
-        '26172056'
+        '31268953'
     ), (
-        '2',
         'Toto',
         '2020-06-24',
         'Macho',
         '36948372'
     ), (
-        '3',
         'Frida',
         '2014-03-08',
         'Hembra',
+        '40268953'
+    ), (
+        'Lennon',
+        '2018-08-19',
+        'Macho',
         '40268953'
     );
 
 INSERT INTO
     `historial` (
-        `ID_Historial`,
         `Fecha`,
         `Perro`,
         `Descripcion`,
         `Monto`
     )
 VALUES (
-        "1",
-        '2021-11-07',
+        '2022-06-24',
         '1',
         'Baño y corte de pelo',
         '1500'
     ), (
-        "2",
-        '2022-02-24',
+        '2022-07-03',
         '2',
         'Limpieza del canal auditivo',
         '700'
     ), (
-        "3",
-        '2022-05-10',
+        '2022-07-10',
         '3',
         'Baño',
         '1000'
+    ), (
+        '2022-07-30',
+        '4',
+        'Corte de pelo',
+        '800'
+    ), (
+        '2022-08-12',
+        '3',
+        'Baño y corte de pelo',
+        '1500'
     );
 
---Punto 3) Borrado de todo animal que NO haya sido atendido nuevamente desde fin de año del 2021
-DELETE perro
-FROM perro, historial
+--Punto 7) Obtener los ingresos percibidos en Julio del 2022
+SELECT 
+    SUM(Monto)
+FROM
+    historial
 WHERE
-    ID_Perro = Perro
-    AND Fecha < '2021-12-31';
+    Fecha >= '2022-07-01' AND Fecha < '2022-08-01';
